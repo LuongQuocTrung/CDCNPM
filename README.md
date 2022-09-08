@@ -1,3 +1,1 @@
 # CDCNPM
-
-# NCC
